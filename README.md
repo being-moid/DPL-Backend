@@ -22,11 +22,8 @@ The project is organized into several key components:
 - **Middleware**: Handle tasks like authentication and error management.
 
 ## Technologies Used ⚙️
-- **Node.js**: JavaScript runtime for building scalable network applications.
-- **Express.js**: Web framework for Node.js to build APIs quickly.
-- **MongoDB**: NoSQL database for flexible data modeling.
-- **Mongoose**: ODM library for MongoDB and Node.js to define data models.
-- **JWT**: JSON Web Tokens for secure authentication, ensuring that users are properly verified.
+- **ASP.NET 8**: JavaScript runtime for building scalable network applications.
+
 
 ## Features ✨
 - **User Authentication**: Secure login and registration using JWT, allowing users to create accounts and authenticate securely.
